@@ -11,6 +11,7 @@ What if the power of google was just a few keystrokes away? Lucky opens the elin
 
 <br/>
 
+<img src="https://github.com/RubieV/plugin-lucky/blob/master/lucky.gif?raw=true"/>
 
 ## Install
 
